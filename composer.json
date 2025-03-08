@@ -1,0 +1,14 @@
+{
+"autoload": {
+  "psr-4": {
+    "Domia\\User\\": "src/Domia/User/"
+  }
+}
+,
+  "require": {
+    "php": "8.4.4"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "9.5"
+  }
+}
